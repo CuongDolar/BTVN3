@@ -1,0 +1,14 @@
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\bin\Debug\netstandard2.0\DemoSqlite.deps.json
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\bin\Debug\netstandard2.0\DemoSqlite.dll
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\bin\Debug\netstandard2.0\DemoSqlite.pdb
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\obj\Debug\netstandard2.0\PageDsLoaiHoa.xaml.g.cs
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\obj\Debug\netstandard2.0\PageThemLoaiHoa.xaml.g.cs
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\obj\Debug\netstandard2.0\DemoSqlite.csproj.CoreCompileInputs.cache
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\obj\Debug\netstandard2.0\DemoSqlite.AssemblyInfoInputs.cache
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\obj\Debug\netstandard2.0\DemoSqlite.AssemblyInfo.cs
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\obj\Debug\netstandard2.0\DemoSqlite.dll
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\obj\Debug\netstandard2.0\DemoSqlite.pdb
+C:\Users\cuongdolar\source\repos\DemoSqlite\DemoSqlite\DemoSqlite\obj\Debug\netstandard2.0\DemoSqlite.csprojAssemblyReference.cache
